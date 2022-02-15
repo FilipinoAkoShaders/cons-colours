@@ -1,0 +1,1 @@
+module.exports.colours = require('./src/class.js')

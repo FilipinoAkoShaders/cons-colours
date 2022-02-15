@@ -1,0 +1,16 @@
+{
+  "name": "cons-colours",
+  "version": "1.0.2",
+  "description": "Tool To Color Console Log Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "Colours",
+    "Console Colors"
+  ],
+  "author": "FilipinoAkoYoutube",
+  "license": "MIT",
+  "repository": "https://github.com/FilipinoAkoShaders/cons-colours"
+}
